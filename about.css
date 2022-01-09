@@ -2,11 +2,11 @@
 	margin: 0% 0% 0% 0%;
 	padding: 0% 0% 0% 0%;
 	position:absolute;
-	width: 1463px;
-	height: 700px;
+	width: 100%;
+	height: 115%;
 	top: 0px;
-	left: -200px;
-	background-image: url(gbr1.jpg);
+	left: 0px;
+	background: url(gbr1.jpg)no-repeat;
 }
 
 
@@ -103,14 +103,14 @@
 	margin: 50% 0% 0% 0%;
 	padding: 0% 0% 0% 0%;
 	position:absolute;
-	width: 1463px;
-	height: 1000px;
+	width: 100%;
+	height: 100%;
 	left: -200px;
 }
 
 .about_tlt{
 	position: absolute;
-	margin: 8% 55%;
+	margin: 8% 65%;
 	color: black;
 	font-size: 30px;
 	font-family: cursive;
@@ -118,7 +118,7 @@
 
 .blok_about_ct{
 	position: absolute;
-	margin: 7% 38%;
+	margin: 7% 48%;
 	width: 40%;
 }
 
@@ -132,7 +132,7 @@
 
 .bingkai{
 	position: absolute;
-	margin: 32% 52%;
+	margin: 37% 61%;
 	width: 192px;
 	height: 250px;
 	border-radius: 50%;
@@ -142,7 +142,7 @@
 
 .dev_txt{
 	position: absolute;
-	margin: 52% 48%;
+	margin: 58% 56.5%;
 	width: 25%;
 	color: black;
 	font-size: 25px;
@@ -155,9 +155,9 @@
 	margin: 135% 0% 0% 0%;
 	padding: 0% 0% 0% 0%;
 	position:absolute;
-	width: 1463px;
-	height: 136px;
-	left: -200px;
+	width: 100%;
+	height: 20%;
+	left: 0%;
 	background-color: #714C66;
 }
 
@@ -165,8 +165,8 @@
 	position:absolute;
 	font-family: tahoma;
 	color: white;
-	width: 50%;
-	margin: 4% 20%;
+	width: 53%;
+	margin: 2.5% 13%;
 	padding: 0% 0%;
 	font-size: 20px;
 }
@@ -180,7 +180,7 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4% 82%;
+  margin: 2.5% 82%;
   transition-duration: 1.0s;
   cursor: pointer;
   border-radius: 10px;
@@ -198,12 +198,12 @@
 }	
 
 .foot1{
-	margin: 145.5% 0% 0% 0%;
+	margin: 142.5% 0% 0% 0%;
 	padding: 0% 0% 0% 0%;
 	position:absolute;
-	width: 1463px;
-	height: 450px;
-	left: -200px;
+	width: 100%;
+	height: 68%;
+	left: 0%;
 	background-color: #4E314B;
 }
 
@@ -211,7 +211,7 @@
 	position:absolute;
 	font-family: tahoma;
 	color: white;
-	margin: 5% 23%;
+	margin: 5% 12%;
 	padding: 0% 0%;
 	font-size: 20px;
 }
@@ -220,7 +220,7 @@
 	position:absolute;
 	font-family: tahoma;
 	color: white;
-	margin: 10% 23%;
+	margin: 10% 12%;
 	padding: 0% 0%;
 	font-size: 20px;
 }
@@ -229,7 +229,7 @@
 	position:absolute;
 	font-family: tahoma;
 	color: white;
-	margin: 15% 23%;
+	margin: 15% 12%;
 	padding: 0% 0%;
 	font-size: 20px;
 }
@@ -238,7 +238,8 @@
 	position:absolute;
 	font-family: tahoma;
 	color: white;
-	margin: 20% 18%;
+	margin: 20% 12%;
+	text-decoration: none;
 	padding: 0% 0%;
 	font-size: 40px;
 	font-family: "lucida handwriting";
@@ -311,7 +312,7 @@
 	position:absolute;
 	font-family: tahoma;
 	color: white;
-	width: 5%;
+	width: 6%;
 	margin: 15% 64%;
 	padding: 0% 0%;
 	font-size: 20px;
@@ -332,7 +333,7 @@
 	font-family: tahoma;
 	color: white;
 	width: 10%;
-	margin: 5% 83%;
+	margin: 5% 80.5%;
 	padding: 0% 0%;
 	font-size: 20px;
 }
@@ -350,41 +351,41 @@
 .fa-facebook {
   color: white;
   position: absolute;
-  margin: 130px 1220px;
+  margin: 8.5% 81%;
   
 }
 
 .fa-instagram {
   color: white;
   position: absolute;
-  margin: 130px 1270px;
+  margin: 8.5% 84%;
 }
 
 .fa-snapchat-ghost {
   color: white;
-  margin: 130px 1320px;
+  margin: 8.5% 87%;
   position: absolute;
 }
 
 .fa-twitter {
   color: white;
-  margin: 170px 1218px;
+   margin: 12% 81%;
   position: absolute;
 }
 
 .fa-whatsapp{
-  margin: 166px 1268px;
-  position: absolute;
-  color: white;
+	margin: 11.8% 84%;
+	position: absolute;
+	color: white;
 }
 
 .foot2{
-	margin: 181% 0% 0% 0%;
+	margin: 174% 0% 0% 0%;
 	padding: 0% 0% 0% 0%;
 	position:absolute;
-	width: 1463px;
-	height: 40px;
-	left: -200px;
+	width: 100%;
+	height: 7%;
+	left: 0%;
 	background-color: #463A45;
 }
 
@@ -392,13 +393,13 @@
 	position:absolute;
 	font-family: tahoma;
 	color: white;
-	margin: 0.5% 15%;
+	margin: 0.5% 2%;
 	padding: 0% 0%;
 	font-size: 20px;
 }
 
 .no1{
-	margin: 28% 51.5%;
+	margin: 28% 63%;
 	font-size: 20px;
 	width: 10%;
 	font-family: cursive;
